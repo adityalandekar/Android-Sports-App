@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SportsApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_team_selection">TeamSelectionActivity</string>
+    <string name="title_activity_team_stats">TeamStatsActivity</string>
+    <string name="title_activity_team_statistics">TeamStatisticsActivity</string>
+</resources>
